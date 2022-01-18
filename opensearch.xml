@@ -1,0 +1,7 @@
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/" xmlns:moz="http://www.mozilla.org/2006/browser/search/">
+    <ShortName>Provedor de internet - Fulltime Soluções para Monitoramento e Rastreamento</ShortName>
+    <Description>Não fique de fora, a inovação do mercado de isp's está por vir!</Description>
+    <InputEncoding>UTF-8</InputEncoding>
+    <Image width="16" height="16" type="image/x-icon">https://fulltime.com.br/provedor-de-internet/favicon.ico</Image>
+    <Url type="text/html" method="get" template="https://fulltime.com.br/provedor-de-internet"/>
+</OpenSearchDescription>
